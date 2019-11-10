@@ -1,0 +1,11 @@
+div{
+    text-align: center;
+}
+a{
+    padding: 5px 16px;
+    background-color: #ccc;
+    margin-right: 10px;
+    font-size: 1.5em;
+    border-radius: 5px;
+    cursor: pointer;
+}

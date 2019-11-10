@@ -1,0 +1,80 @@
+{
+  "configVersion": 1,
+  "timestamp": 1573157020582,
+  "index": "http://localhost:8888/angular-app/index.html", 
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "urls": [
+        "http://localhost:8888/angular-app/favicon.ico",
+        "http://localhost:8888/angular-app/index.html",
+        "http://localhost:8888/angular-app/main-es2015.a5096c95bf415c351ecb.js",
+        "http://localhost:8888/angular-app/main-es5.a5096c95bf415c351ecb.js",
+        "http://localhost:8888/angular-app/manifest.webmanifest",
+        "http://localhost:8888/angular-app/polyfills-es2015.2987770fde9daa1d8a2e.js",
+        "http://localhost:8888/angular-app/polyfills-es5.6696c533341b95a3d617.js",
+        "http://localhost:8888/angular-app/runtime-es2015.edb2fcf2778e7bf1d426.js",
+        "http://localhost:8888/angular-app/runtime-es5.edb2fcf2778e7bf1d426.js",
+        "http://localhost:8888/angular-app/styles.3ff695c00d717f2d2a11.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "urls": [
+        "http://localhost:8888/angular-app/assets/icons/icon-128x128.png",
+        "http://localhost:8888/angular-app/assets/icons/icon-144x144.png",
+        "http://localhost:8888/angular-app/assets/icons/icon-152x152.png",
+        "http://localhost:8888/angular-app/assets/icons/icon-192x192.png",
+        "http://localhost:8888/angular-app/assets/icons/icon-384x384.png",
+        "http://localhost:8888/angular-app/assets/icons/icon-512x512.png",
+        "http://localhost:8888/angular-app/assets/icons/icon-72x72.png",
+        "http://localhost:8888/angular-app/assets/icons/icon-96x96.png"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "http://localhost:8888/angular-app/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
+    "http://localhost:8888/angular-app/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
+    "http://localhost:8888/angular-app/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
+    "http://localhost:8888/angular-app/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
+    "http://localhost:8888/angular-app/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "http://localhost:8888/angular-app/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "http://localhost:8888/angular-app/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
+    "http://localhost:8888/angular-app/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "http://localhost:8888/angular-app/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
+    "http://localhost:8888/angular-app/index.html": "9dd89c71093f7fff3bcfe7b3d4be93e51125cd99",
+    "http://localhost:8888/angular-app/main-es2015.a5096c95bf415c351ecb.js": "f3e58f95a30dd94c8f50de312caafc918a61d0ca",
+    "http://localhost:8888/angular-app/main-es5.a5096c95bf415c351ecb.js": "5ac61fa030a2d036dc6b72a6e0da3f9867b12bd4",
+    "http://localhost:8888/angular-app/manifest.webmanifest": "9fb0bc9ff7bfda93d02348828d8da49618705b64",
+    "http://localhost:8888/angular-app/polyfills-es2015.2987770fde9daa1d8a2e.js": "cf5cbfa9134716054fb479ab21362146cdf1f2ff",
+    "http://localhost:8888/angular-app/polyfills-es5.6696c533341b95a3d617.js": "45c51483238468881240579c3fdecd19144cff17",
+    "http://localhost:8888/angular-app/runtime-es2015.edb2fcf2778e7bf1d426.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
+    "http://localhost:8888/angular-app/runtime-es5.edb2fcf2778e7bf1d426.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
+    "http://localhost:8888/angular-app/styles.3ff695c00d717f2d2a11.css": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ]
+}
